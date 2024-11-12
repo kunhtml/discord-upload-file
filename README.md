@@ -1,2 +1,11 @@
-bot hỗ trợ upload file lên discord rồi gửi lại link tải xuống file đó cho người dùng
-/ncó hỗ trợ tải xuống file từ url rồi sau đó tải file đó lên discord
+# Bot hỗ trợ upload file discord
+<hr>
+
+## 🗒️ chức năng
+
+- upload file lên discord
+- tải file từ url rồi upload lên discord
+<hr>
+
+
+# Stewie
